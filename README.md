@@ -1,5 +1,5 @@
 # TP3DPBO2025C1
-Saya Narendra Ridha Baihaqi dengan NIM 2308882 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Narendra Ridha Baihaqi dengan NIM 2308882 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ## **Desain Program**
 ![image](https://github.com/user-attachments/assets/9a28096f-db01-4a4a-8bf6-1d025a3cc2ff)
 ## **Desain Sistem Komputer di Sekolah**  
