@@ -18,7 +18,7 @@ Sistem ini terdiri dari beberapa kelas utama:
    - Tidak memiliki hubungan langsung dengan **Orang** dalam desain ini.  
 
 ### 2️⃣ **Orang** 👤  
-   - Setiap orang (misalnya siswa atau staf) memiliki **satu** komputer pribadi.  
+   - Setiap orang memiliki **satu** komputer pribadi.  
    - Bisa mengatur atau mendapatkan komputer yang dimilikinya.  
 
 ### 3️⃣ **Komputer** 🖥  
